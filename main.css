@@ -45,10 +45,10 @@ body {
     font-size: 30px;
     font-family: var(--font-family);
     font-weight: 700;
-    margin-top: 5em;
-    margin-left: 40px;
-    margin-right: 30px;
-    line-height: 2rem;
+    margin-top: 35%;
+    margin-left: 9.5%;
+    margin-right: 8%;
+    line-height: 90%;
     color: var(--Dark-blue);
 }
 
@@ -56,10 +56,10 @@ body {
     font-size: 20px;
     font-family: var(--font-family);
     font-weight: 400;
-    margin-top: 10em;
-    margin-left: 50px;
-    margin-right: 50px;
-    line-height: 1.8rem;
+    margin-top: 48%;
+    margin-left: 13%;
+    margin-right: 10%;
+    line-height: 100%;
     color: var(--Grayish-blue);
 }
 
@@ -67,9 +67,9 @@ body {
     font-size: 21px;
     font-family: var(--font-family);
     font-weight: 400;
-    margin-top: 5.3em;
-    margin-left: 6.8em;
-    line-height: 1.8rem;
+    margin-top: 23%;
+    margin-left: 32%;
+    line-height: 100%;
     color: var(--Grayish-blue);
 }
 
