@@ -17,6 +17,10 @@ body {
     background-color: var(--Light-gray);
 }
 
+@media (max-width: 400px) {
+  // Styles for viewports narrower than 400 pixels.
+}
+
 .container {
     width: 400px;
     height: 650px;
